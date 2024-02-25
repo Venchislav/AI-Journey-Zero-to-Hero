@@ -1,0 +1,9 @@
+This directory contains python code for some of Linear Algebra ideas.
+This code is written on Python 3.11.4 and will not get any updates.
+It's absolutely free to use.
+
+Thanks to 3Blue1Brown for his excelent work and for his teaching skills.
+
+Links:
+3Blue1Brown Linear Algebra Eng (original) - https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&si=4D-k8NOyYWWuDAwX
+3Blue1Brown Linear Algebra Ru (amateur translation) - https://youtube.com/playlist?list=PLVjLpKXnAGLXPaS7FRBjd5yZeXwJxZil2&si=CDh0u1TqTtIP9pEA
