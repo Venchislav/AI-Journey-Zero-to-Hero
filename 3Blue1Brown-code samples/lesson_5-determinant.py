@@ -26,3 +26,22 @@ det_res = np.linalg.det(matrix)
 
 print(det_res)
 
+
+# from scratch
+
+def determinant_implementation(matrix):
+    if type(matrix) == list:
+        matrix = np.array(matrix)
+
+    if matrix.shape == (2, 2):
+        return matrix[0][0] * matrix[1][1] - matrix[0][1] * matrix[1][0]
+    else:
+        st = matrix[0][0] * determinant_implementation([[matrix[1][1], matrix[1][2]], [matrix[2][1], matrix[2][2]]])
+        nd = matrix[0][1] * determinant_implementation([[matrix[1][0], matrix[1][2]], [matrix[2][0], matrix[2][2]]])
+        rd = matrix[0][2] * determinant_implementation([[matrix[1][0], matrix[1][1]], [matrix[2][0], matrix[2][1]]])
+
+        return st - nd + rd
+
+
+print(determinant_implementation([[1, 2, 3], [4, 5, 6], [7, 8, 9]]))  # 0
+print(determinant_implementation([[1, 2], [3, 4]]))  # -2
