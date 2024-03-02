@@ -94,3 +94,11 @@ def plot_transformations(A, rev_A):
     plt.show()
 
 plot_transformations(matrix, inversed_matrix)
+
+# Null space:
+"""
+Null space is formed from vectors that turn into null vector after transformation
+[0; 0]
+
+For now it's just theory. Code will be here later.
+"""
