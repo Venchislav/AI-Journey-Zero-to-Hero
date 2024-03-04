@@ -23,3 +23,21 @@ print(np.cross(vector_1, vector_2))
 # I don't know...
 # okay, there's an illustration for lesson 8 in illustrations folder
 # but it will be explained in 9th chapter
+
+# 9th chapter's here
+
+# I watched it
+
+# and didn't understand anything (with this intuition)
+# so I hope I'll understand it from khan academy course
+
+# bruh
+
+
+def cross_product(v, w):
+    assert np.array(v).shape == np.array(w).shape
+
+    return v[0] * w[1] - v[1] * w[0]
+
+
+print(cross_product(vector_1, vector_2))
