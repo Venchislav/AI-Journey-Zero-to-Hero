@@ -1,0 +1,6 @@
+Here are some code samples of Khan Academy Linear Algebra course.
+I decided to take a small pause from 3blue1brown last videos (from linear algebra course) as they are kinda complicated.
+So now I want to walk through linear algebra and later see some intuitions and insides of it.
+
+Thanks for Khan Academy for this free course!
+Link - https://www.khanacademy.org/math/linear-algebra
