@@ -28,6 +28,7 @@ Hugging Face community <img src='https://s9i7q5a6.rocketcdn.me/solutions/wp-cont
 <h3>Special thanks to: </h3> <br>
 Andrew Ng and his courses <img src='https://hai.stanford.edu/sites/default/files/styles/person_big/public/person/bio-images/Aurum-Speakers-Bureau-Andrew-Ng.jpg?itok=mTWW2mfy' width=3%><br>
 FreeCodeCamp for their awesome work <img src='https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg' width=3%>
+Khan Academy for their free education <img src='https://i.pinimg.com/originals/07/59/98/0759986c4266c8123913a4f63a62e560.png' width=3%>
 
 ___
 
