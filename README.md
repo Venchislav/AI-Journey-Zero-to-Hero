@@ -35,3 +35,8 @@ ___
 After all... I'm glad that GEN-1 failed (for now). <br>
 Now I have motivation, resources, and all to become good Data Scientist <br>
 This program is pretty hard (it's maybe around 500 hours+ with practice) but I'll try my best to become better!
+___
+I need to take 1 day break, as now I have to spend a day working on secret project <br>
+Later this text will be deleted
+
+
