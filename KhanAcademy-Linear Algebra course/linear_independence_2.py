@@ -37,3 +37,10 @@ c = [32, 8, 12]
 print(are_linearly_dep2(a, b, c))  # Linearly dependent!
 
 
+a = [1, 0, 1]
+b = [1, 1, 0]
+c = [0, 1, 1]
+
+print(are_linearly_dep2(a, b, c))  # Linearly independent!
+
+# but it works only with square like
