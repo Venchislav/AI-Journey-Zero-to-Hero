@@ -19,5 +19,4 @@ def optimization_for_f1(function):
 
 print(optimization_for_f1(function_1))
 
-
 print(function_1(5.5508596546555514e-17))  # it's 0
