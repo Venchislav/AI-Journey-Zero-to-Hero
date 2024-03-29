@@ -4,6 +4,7 @@ with gradient descent. Lesss goooo
 """
 from scipy.misc import derivative
 
+
 def function_1(x):
     return x ** 2
 
@@ -16,6 +17,7 @@ def optimization_for_f1(function):
         x -= alpha * slope
         slope = derivative(function, x)
     return f'argument - {x}'
+
 
 print(optimization_for_f1(function_1))
 
