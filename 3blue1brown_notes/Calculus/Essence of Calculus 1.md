@@ -48,7 +48,9 @@ BAM!!!!!!
 But guys, wtf?
 How did you accept this "approximation"?
 Math is precise, or is it?
+
 <img src='https://media1.tenor.com/m/VWevehP7cCAAAAAC/monkagigaftmichaelfromvsauce-monkagiga.gif' width=25%>
+
 ___
 The actual thing that it's precise and logical.
 Technicaly It's not forbidden to pick INSANELY thin slices (that we can not even imagine).
